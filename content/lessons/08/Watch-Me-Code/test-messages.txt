@@ -1,0 +1,8 @@
+this si a message
+i am writing a emssage
+to view all messages
+enter
+view all messages
+      message    
+quit
+message
